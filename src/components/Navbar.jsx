@@ -5,6 +5,7 @@ const Navbar = () => {
     <nav>
       <div>
         <a href="#home" className="flex items-center gap-2">
+          <img src="/images/logo.png" alt="logo" className="w-10 h-10" />
           <p className="hover:opacity-75">Pelle's Cocktail Bar</p>
         </a>
         <ul>
